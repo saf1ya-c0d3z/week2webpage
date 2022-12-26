@@ -1,16 +1,16 @@
-## Professional Portfolio
+# Professional Portfolio
 
 In this challenge, I used HTML and CSS to create a style a proffesional portfolio for my potential employer from scracth. I considered fucntionality of links and using CSS properties to make the most efficent and functional website.
 
 As I worked I considered the following...
 
-# User Story
+## User Story
 
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
@@ -26,16 +26,16 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-# Screenshot
+## Screenshot
 <img width="1440" alt="scrnsht1" src="https://user-images.githubusercontent.com/118941179/209514528-0107336c-4550-459c-ad45-b7ad34605f86.png">
 <img width="1440" alt="scrnsht2" src="https://user-images.githubusercontent.com/118941179/209514422-ee6005cd-3190-4cb2-80a9-481633781a3e.png">
 
 
-# Link
+## Link
 
 https://saf1ya-c0d3z.github.io/week2webpage/
 
-# Notes
+## Notes
 
 Work on your code in a repository and clone the main branch from GitHub Make sure the application loads with no errors Make sure the format of the webpage does not change after changing the semantic elements on the index.html file Use console.log to see if elements in the code are working how they are supposd to.
 
