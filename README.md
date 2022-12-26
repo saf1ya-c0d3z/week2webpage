@@ -28,11 +28,12 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Screenshot
 
-
+<img src="./images/scrnsht1.png">
+<img src="/.images/scrnsht2.png">
 
 # Link
 
-
+https://saf1ya-c0d3z.github.io/week2webpage/
 
 # Notes
 
