@@ -2,33 +2,12 @@
 
 In this challenge, I used HTML and CSS to create a style a proffesional portfolio for my potential employer from scracth. I considered fucntionality of links and using CSS properties to make the most efficent and functional website.
 
-As I worked I considered the following...
-
-## User Story
-
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-
-## Acceptance Criteria
-
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshot
 <img width="1440" alt="scrnsht1" src="https://user-images.githubusercontent.com/118941179/209514528-0107336c-4550-459c-ad45-b7ad34605f86.png">
 <img width="1440" alt="scrnsht2" src="https://user-images.githubusercontent.com/118941179/209514422-ee6005cd-3190-4cb2-80a9-481633781a3e.png">
+<img width="1440" alt="Screen Shot 2023-02-01 at 9 40 10 PM" src="https://user-images.githubusercontent.com/118941179/216241594-d213c27d-2649-4f24-89db-6113cce1af52.png">
+<img width="1440" alt="Screen Shot 2023-02-01 at 9 41 51 PM" src="https://user-images.githubusercontent.com/118941179/216241579-d84ef4a7-ce9c-42c1-901a-d2c11ebd38ff.png">
 
 
 ## Link
